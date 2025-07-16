@@ -1,0 +1,90 @@
+
+Evaluating BPCL_CIPLA
+Run 1: Return: 176.78%, Sharpe: 2.72, Win Rate: 82.61%, Total Trades: 46, Max Drawdown: -13.46%
+Run 2: Return: 149.96%, Sharpe: 2.51, Win Rate: 84.44%, Total Trades: 45, Max Drawdown: -13.46%
+Run 3: Return: 131.62%, Sharpe: 2.34, Win Rate: 83.33%, Total Trades: 42, Max Drawdown: -13.46%
+Run 4: Return: 130.91%, Sharpe: 2.35, Win Rate: 83.72%, Total Trades: 43, Max Drawdown: -13.46%
+Run 5: Return: 128.88%, Sharpe: 2.33, Win Rate: 83.33%, Total Trades: 42, Max Drawdown: -13.46%
+Run 6: Return: 174.35%, Sharpe: 2.70, Win Rate: 82.22%, Total Trades: 45, Max Drawdown: -13.46%
+Run 7: Return: 147.76%, Sharpe: 2.49, Win Rate: 84.09%, Total Trades: 44, Max Drawdown: -13.46%
+Run 8: Return: 147.76%, Sharpe: 2.49, Win Rate: 84.09%, Total Trades: 44, Max Drawdown: -13.46%
+Run 9: Return: 175.03%, Sharpe: 2.67, Win Rate: 84.44%, Total Trades: 45, Max Drawdown: -13.46%
+Run 10: Return: 110.60%, Sharpe: 2.10, Win Rate: 82.50%, Total Trades: 40, Max Drawdown: -13.46%
+
+>> BPCL_CIPLA Summary over 10 runs:
+Average Return: 147.36% ± 21.40%
+Average Sharpe: 2.47 ± 0.19
+Average Max Drawdown: -13.46% ± 0.00%
+Average Total Trades: 43.60 ± 1.74
+
+Evaluating CIPLA_NTPC
+Run 1: Return: 213.81%, Sharpe: 3.09, Win Rate: 85.11%, Total Trades: 47, Max Drawdown: -17.13%
+Run 2: Return: 241.61%, Sharpe: 3.30, Win Rate: 84.78%, Total Trades: 46, Max Drawdown: -17.08%
+Run 3: Return: 197.80%, Sharpe: 3.02, Win Rate: 82.22%, Total Trades: 45, Max Drawdown: -17.08%
+Run 4: Return: 251.58%, Sharpe: 3.43, Win Rate: 87.23%, Total Trades: 47, Max Drawdown: -17.08%
+Run 5: Return: 152.58%, Sharpe: 2.68, Win Rate: 80.49%, Total Trades: 41, Max Drawdown: -17.08%
+Run 6: Return: 220.17%, Sharpe: 3.15, Win Rate: 84.44%, Total Trades: 45, Max Drawdown: -17.08%
+Run 7: Return: 209.82%, Sharpe: 3.18, Win Rate: 85.11%, Total Trades: 47, Max Drawdown: -17.08%
+Run 8: Return: 195.46%, Sharpe: 3.00, Win Rate: 81.82%, Total Trades: 44, Max Drawdown: -17.08%
+Run 9: Return: 207.00%, Sharpe: 3.07, Win Rate: 85.11%, Total Trades: 47, Max Drawdown: -17.08%
+Run 10: Return: 232.53%, Sharpe: 3.23, Win Rate: 84.09%, Total Trades: 44, Max Drawdown: -17.08%
+
+>> CIPLA_NTPC Summary over 10 runs:
+Average Return: 212.24% ± 26.40%
+Average Sharpe: 3.12 ± 0.19
+Average Max Drawdown: -17.08% ± 0.01%
+Average Total Trades: 45.30 ± 1.85
+
+Evaluating ADANIENT_TATACONSUM
+Run 1: Return: 60.45%, Sharpe: 2.17, Win Rate: 86.84%, Total Trades: 38, Max Drawdown: -9.99%
+Run 2: Return: 23.70%, Sharpe: 0.76, Win Rate: 78.12%, Total Trades: 32, Max Drawdown: -20.55%
+Run 3: Return: 23.42%, Sharpe: 0.75, Win Rate: 78.12%, Total Trades: 32, Max Drawdown: -20.55%
+Run 4: Return: 27.16%, Sharpe: 0.88, Win Rate: 75.00%, Total Trades: 28, Max Drawdown: -18.36%
+Run 5: Return: 25.54%, Sharpe: 0.82, Win Rate: 79.41%, Total Trades: 34, Max Drawdown: -20.55%
+Run 6: Return: 29.76%, Sharpe: 0.95, Win Rate: 75.00%, Total Trades: 28, Max Drawdown: -18.36%
+Run 7: Return: 23.47%, Sharpe: 0.75, Win Rate: 77.42%, Total Trades: 31, Max Drawdown: -20.55%
+Run 8: Return: 55.18%, Sharpe: 2.07, Win Rate: 85.71%, Total Trades: 35, Max Drawdown: -9.99%
+Run 9: Return: 55.62%, Sharpe: 2.08, Win Rate: 86.49%, Total Trades: 37, Max Drawdown: -9.99%
+Run 10: Return: 27.10%, Sharpe: 0.88, Win Rate: 75.86%, Total Trades: 29, Max Drawdown: -18.36%
+
+>> ADANIENT_TATACONSUM Summary over 10 runs:
+Average Return: 35.14% ± 14.55%
+Average Sharpe: 1.21 ± 0.59
+Average Max Drawdown: -16.73% ± 4.50%
+Average Total Trades: 32.40 ± 3.38
+
+Evaluating EICHERMOT_M&M
+Run 1: Return: 31.71%, Sharpe: 0.94, Win Rate: 82.86%, Total Trades: 35, Max Drawdown: -14.39%
+Run 2: Return: 30.82%, Sharpe: 0.91, Win Rate: 77.78%, Total Trades: 36, Max Drawdown: -14.39%
+Run 3: Return: 32.15%, Sharpe: 0.93, Win Rate: 82.35%, Total Trades: 34, Max Drawdown: -14.39%
+Run 4: Return: 27.79%, Sharpe: 0.82, Win Rate: 75.76%, Total Trades: 33, Max Drawdown: -14.39%
+Run 5: Return: 29.89%, Sharpe: 0.88, Win Rate: 77.78%, Total Trades: 36, Max Drawdown: -14.39%
+Run 6: Return: 31.15%, Sharpe: 0.92, Win Rate: 82.86%, Total Trades: 35, Max Drawdown: -14.39%
+Run 7: Return: 28.62%, Sharpe: 0.85, Win Rate: 82.86%, Total Trades: 35, Max Drawdown: -14.39%
+Run 8: Return: 30.97%, Sharpe: 0.93, Win Rate: 86.36%, Total Trades: 44, Max Drawdown: -16.20%
+Run 9: Return: 33.60%, Sharpe: 0.99, Win Rate: 78.95%, Total Trades: 38, Max Drawdown: -15.88%
+Run 10: Return: 38.30%, Sharpe: 1.11, Win Rate: 81.25%, Total Trades: 32, Max Drawdown: -13.87%
+
+>> EICHERMOT_M&M Summary over 10 runs:
+Average Return: 31.50% ± 2.77%
+Average Sharpe: 0.93 ± 0.07
+Average Max Drawdown: -14.67% ± 0.71%
+Average Total Trades: 35.80 ± 3.16
+
+Evaluating HDFCBANK_ICICIBANK
+Run 1: Return: 107.07%, Sharpe: 2.95, Win Rate: 82.93%, Total Trades: 41, Max Drawdown: -10.42%
+Run 2: Return: 116.77%, Sharpe: 2.76, Win Rate: 80.56%, Total Trades: 36, Max Drawdown: -11.51%
+Run 3: Return: 80.83%, Sharpe: 2.22, Win Rate: 82.05%, Total Trades: 39, Max Drawdown: -15.64%
+Run 4: Return: 88.36%, Sharpe: 2.37, Win Rate: 82.05%, Total Trades: 39, Max Drawdown: -15.64%
+Run 5: Return: 85.53%, Sharpe: 2.31, Win Rate: 82.50%, Total Trades: 40, Max Drawdown: -15.64%
+Run 6: Return: 115.15%, Sharpe: 2.76, Win Rate: 82.50%, Total Trades: 40, Max Drawdown: -10.42%
+Run 7: Return: 98.66%, Sharpe: 2.86, Win Rate: 82.50%, Total Trades: 40, Max Drawdown: -10.42%
+Run 8: Return: 107.55%, Sharpe: 2.64, Win Rate: 81.08%, Total Trades: 37, Max Drawdown: -11.51%
+Run 9: Return: 98.28%, Sharpe: 2.92, Win Rate: 82.93%, Total Trades: 41, Max Drawdown: -10.42%
+Run 10: Return: 98.66%, Sharpe: 2.86, Win Rate: 82.50%, Total Trades: 40, Max Drawdown: -10.42%
+
+>> HDFCBANK_ICICIBANK Summary over 10 runs:
+Average Return: 99.69% ± 11.56%
+Average Sharpe: 2.67 ± 0.26
+Average Max Drawdown: -12.20% ± 2.29%
+Average Total Trades: 39.30 ± 1.55
